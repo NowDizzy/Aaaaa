@@ -1,0 +1,20 @@
+{
+  "name": "discord-tickets",
+  "main": "parsher.js",
+  "author": "parsher",
+  "version": "1.0.0",
+  "description": "parsher",
+  "scripts": {
+    "start": "node parsher.js"
+  },
+  "engines": {
+    "node": "16.x" 
+  },
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "chalk": "^4.1.2",
+    "moment": "^2.29.1",
+    "dotenv": "^10.0.0"
+  }
+}
+
